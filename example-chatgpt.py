@@ -9,7 +9,7 @@ load_dotenv()
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-def ask_gpt(prompt):
+def ask_gpt(prompt: str) -> str:
   response = openai.chat.completions.create(
     model="gpt-3.5-turbo",
     messages=[
