@@ -1,0 +1,30 @@
+[
+    {
+        "day": "2024-09-24",
+        "product": "Project with ChatGPT",
+        "total_cost": 55.0,
+        "total_quantity": 11,
+        "total_sales": 1
+    },
+    {
+        "day": "2024-09-24",
+        "product": "Project with Gemini",
+        "total_cost": 55.0,
+        "total_quantity": 11,
+        "total_sales": 1
+    },
+    {
+        "day": "2024-09-24",
+        "product": "Project with Llama 3.0",
+        "total_cost": 55.0,
+        "total_quantity": 11,
+        "total_sales": 1
+    },
+    {
+        "day": "2024-09-26",
+        "product": "Project with ChatGPT",
+        "total_cost": 24.0,
+        "total_quantity": 3,
+        "total_sales": 1
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "seller": "asdasdasdsa@terra.com",
+        "day": "2024-09-24",
+        "total_cost": 165.0,
+        "total_quantity": 33,
+        "total_sales": 3
+    },
+    {
+        "seller": "BACK@gmail.com",
+        "day": "2024-09-26",
+        "total_cost": 24.0,
+        "total_quantity": 3,
+        "total_sales": 1
+    }
+]
